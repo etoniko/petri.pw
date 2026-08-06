@@ -1,0 +1,46 @@
+{
+  "default": "megasplit5k1",
+  "proxy": "server7.petridish.pw",
+  "regions": [
+    {
+      "id": "megasplit5k",
+      "name": "MegaSplit 5K",
+      "servers": [
+        { "id": "megasplit5k1", "name": "megasplit5k1", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k1", "api": "", "players": 0 },
+        { "id": "megasplit5k2", "name": "megasplit5k2", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k2", "api": "", "players": 0 },
+        { "id": "megasplit5k3", "name": "megasplit5k3", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k3", "api": "", "players": 0 },
+        { "id": "megasplit5k4", "name": "megasplit5k4", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k4", "api": "", "players": 0 },
+        { "id": "megasplit5k5", "name": "megasplit5k5", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k5", "api": "", "players": 0 },
+        { "id": "megasplit5k6", "name": "megasplit5k6", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k6", "api": "", "players": 0 },
+        { "id": "megasplit5k7", "name": "megasplit5k7", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k7", "api": "", "players": 0 },
+        { "id": "megasplit5k8", "name": "megasplit5k8", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k8", "api": "", "players": 0 },
+        { "id": "megasplit5k9", "name": "megasplit5k9", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k9", "api": "", "players": 0 },
+        { "id": "megasplit5k10", "name": "megasplit5k10", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k10", "api": "", "players": 0 },
+        { "id": "megasplit5k11", "name": "megasplit5k11", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k11", "api": "", "players": 0 },
+        { "id": "megasplit5k12", "name": "megasplit5k12", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k12", "api": "", "players": 0 },
+        { "id": "megasplit5k13", "name": "megasplit5k13", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k13", "api": "", "players": 0 },
+        { "id": "megasplit5k14", "name": "megasplit5k14", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k14", "api": "", "players": 0 },
+        { "id": "megasplit5k15", "name": "megasplit5k15", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k15", "api": "", "players": 0 },
+        { "id": "megasplit5k16", "name": "megasplit5k16", "mode": "MEGASPLIT5K", "host": "gateway", "path": "megasplit5k16", "api": "", "players": 0 }
+      ]
+    },
+    {
+      "id": "megasplit",
+      "name": "MegaSplit",
+      "servers": [
+        { "id": "megasplit1", "name": "megasplit1", "mode": "MEGASPLIT", "host": "gateway", "path": "megasplit1", "api": "", "players": 0 },
+        { "id": "megasplit2", "name": "megasplit2", "mode": "MEGASPLIT", "host": "gateway", "path": "megasplit2", "api": "", "players": 0 },
+        { "id": "megasplit3", "name": "megasplit3", "mode": "MEGASPLIT", "host": "gateway", "path": "megasplit3", "api": "", "players": 0 },
+        { "id": "megasplit4", "name": "megasplit4", "mode": "MEGASPLIT", "host": "gateway", "path": "megasplit4", "api": "", "players": 0 },
+        { "id": "megasplit10", "name": "megasplit10", "mode": "MEGASPLIT", "host": "gateway", "path": "megasplit10", "api": "", "players": 0 }
+      ]
+    },
+    {
+      "id": "hardcore",
+      "name": "Hardcore",
+      "servers": [
+        { "id": "hardcore9", "name": "hardcore9", "mode": "HARDCORE", "host": "gateway", "path": "hardcore9", "api": "", "players": 0 }
+      ]
+    }
+  ]
+}
